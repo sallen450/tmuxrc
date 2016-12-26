@@ -2,6 +2,8 @@
 
 A simple tmux config
 
+> Better to use tmux 2.3+ version
+
 ## Install
 
 Copy `.tmux.config` to `~/` directory.
@@ -12,4 +14,4 @@ See the comments in `.tmux.config` config file.
 
 ## Usage
 
-* `C-a :` move-window -t number  移动窗口到 number 编号
+[Document](https://github.com/sallen450/awesome-docs)
