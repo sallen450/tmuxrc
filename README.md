@@ -6,7 +6,8 @@ A simple tmux config
 
 ## Install
 
-Copy `.tmux.config` to `~/` directory.
+1. Copy `.tmux.config` to `~/` directory.
+2. `cd ~ && git clone https://github.com/erikw/tmux-powerline.git && mv tmux-powerline .tmux-powerline`
 
 ## Hotkey
 
